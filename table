@@ -4,7 +4,7 @@ getgenv().Lithium = {
     Startup = { 
         Hash = 0xAB0, 
         Intro = false, 
-        Delay = 0.5
+        Delay = 0.6
     },
     --
     Logic = {
